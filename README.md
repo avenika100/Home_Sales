@@ -2,6 +2,8 @@
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
+### Code for the following analysis is included in Home_sales.ipynb file. And the code should be run the google collab.
+
 ## Instructions
 
   1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
